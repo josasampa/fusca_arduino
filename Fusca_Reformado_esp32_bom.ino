@@ -453,3 +453,5 @@ void desligaTemporizadorTrava(){
   isTemporizaTrava = false;
   millisInicioTemporizadorTrava = 0;
 }
+
+// codigo de exemplo
